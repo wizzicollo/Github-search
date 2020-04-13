@@ -1,0 +1,9 @@
+
+  .shadow-hover:hover {
+      box-shadow: 0 1rem 3rem rgba(196, 31, 31, 0.175) !important;
+      background-color: lightgrey;
+    }
+  
+  .card-body{
+    background-color: lightgray;
+  } 

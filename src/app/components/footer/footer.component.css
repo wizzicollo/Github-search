@@ -1,0 +1,14 @@
+
+footer {
+    height: 15vh;
+    background-color: limegreen;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .link {
+    color: black;
+    font-weight: bold;
+  }
+  
